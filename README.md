@@ -1,5 +1,5 @@
 # flow
-This is a demo for flow ( npm pachage -> flow-bin)
+This is a demo for flow ( npm package -> flow-bin)
 
 　
 ## Blog
