@@ -11,7 +11,7 @@ This is a demo for flow ( npm package -> flow-bin)
 　　　　
 ## Clone
 ```bash
-git clone https://github.com/explooosion/Node.js-Express-With-MySQL.git
+git clone https://github.com/explooosion/flow.git
 ```
 　
 　　
