@@ -3,7 +3,7 @@ This is a demo for flow ( npm package -> flow-bin)
 
 　
 ## Blog
-[NPM - flow-bin 檢查JS](https://dotblogs.com.tw/blog/preview/9b0c0b99-24ab-45f4-8b8d-e3bb20672493)　
+[NPM - flow-bin 檢查JS](https://dotblogs.com.tw/explooosion/2016/08/03/235428)　
 　
 　
 
